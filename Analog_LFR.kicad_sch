@@ -13040,7 +13040,7 @@
 				)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "20K"
 			(at 223.52 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16854,7 +16854,7 @@
 				)
 			)
 		)
-		(property "Value" "51K"
+		(property "Value" "24K"
 			(at 242.57 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22309,7 +22309,7 @@
 				)
 			)
 		)
-		(property "Value" "24K"
+		(property "Value" "51K"
 			(at 242.57 105.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24635,7 +24635,7 @@
 				)
 			)
 		)
-		(property "Value" "20K"
+		(property "Value" "100K"
 			(at 242.57 115.57 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24876,7 +24876,7 @@
 				)
 			)
 		)
-		(property "Value" "20K"
+		(property "Value" "100K"
 			(at 223.52 115.57 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25550,7 +25550,7 @@
 				)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "20K"
 			(at 242.57 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27483,7 +27483,7 @@
 				)
 			)
 		)
-		(property "Value" "24K"
+		(property "Value" "51K"
 			(at 223.52 105.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28133,7 +28133,7 @@
 				)
 			)
 		)
-		(property "Value" "51K"
+		(property "Value" "24K"
 			(at 223.52 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)

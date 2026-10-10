@@ -274,7 +274,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e2364e35-a440-4c5f-8836-afdf1f24a6c4")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -426,7 +426,7 @@
 		(property ki_fp_filters "D*SMA*")
 		(path "/92b40818-dc5c-43a3-a25c-7eabdafbc9bc")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -753,7 +753,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/ceae9746-7842-4022-af17-2516bd431823")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1043,7 +1043,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/96f6b8c1-14cc-4456-b89a-3916efc6fb84")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1294,7 +1294,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a7e4f6a5-17f3-4143-97f2-3a43c2c8e9ab")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1511,7 +1511,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/28a6fc8c-ab88-456a-865d-097b709f1dfb")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1671,7 +1671,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6781aa89-60bc-4aff-b815-98b956eee3b3")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1829,7 +1829,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/206ba82f-7d7f-4bfb-9d41-b64807a54ecd")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1987,7 +1987,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/fd8e51f4-4c9f-4d12-b432-fd2eaf14d65d")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2145,7 +2145,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d16120da-32c3-4931-9c2d-55bb4a3bf821")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2414,7 +2414,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/47bb1808-e550-4743-a83d-22fc6a9a5cf3")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2796,7 +2796,7 @@
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
 		(path "/c846a06e-0542-47ba-8cee-1d32b59f74db")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3250,7 +3250,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b4c8204a-d2e9-4881-90ee-459c9c12f499")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3408,7 +3408,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/557f65f0-67e9-42b0-b7af-eb913ecdac60")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3566,7 +3566,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8538178a-31fb-4d5a-8621-170dbab08487")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3724,7 +3724,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/97d77e74-d3b4-4e97-8ac2-9aa8f3b16709")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3884,7 +3884,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/006bf1e6-07f0-4d8f-97bb-289572298f0c")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4044,7 +4044,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/621591b2-942e-4892-8f1c-1a3fecf95fd7")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4313,7 +4313,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/30f58291-4996-4000-9feb-968dd7ca7929")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4471,7 +4471,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2020d83e-bccd-4d85-9960-4afe2ea10101")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4583,7 +4583,7 @@
 				)
 			)
 		)
-		(property "Value" "20K"
+		(property "Value" "100K"
 			(at 0 1.829999 90)
 			(layer "F.Fab")
 			(uuid "bbb6c560-bade-46f7-a680-8f784926b812")
@@ -4631,7 +4631,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b5c5eb56-4575-459a-b136-2ccccf8a6b52")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4791,7 +4791,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c8c5bd06-bb1d-49bd-ae8e-72a80fcda8b7")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4949,7 +4949,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4f3c4278-320f-49ee-9ff5-1d1cecb7120e")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5109,7 +5109,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/67c870de-3083-4968-931a-38c64e858532")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5269,7 +5269,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/050358d8-b5ab-4660-b10e-4c93fa91a3f7")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5429,7 +5429,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/239c26dc-9638-436f-9b04-52dfa60cdaf3")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5628,7 +5628,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/4859b02d-8e32-4c7c-b1b0-fb7159c2c70d")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5879,7 +5879,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f2cffb91-be04-420f-8133-e7708c6e50d5")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6098,7 +6098,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9dfc7f92-9d89-460e-9dca-3f4aeedcc7ac")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6256,7 +6256,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4434918d-2e99-406f-bd5c-a36790d2bfa3")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6582,7 +6582,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/52125249-48db-421e-aaf4-2500f0788f3c")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6779,7 +6779,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/8551f4d2-3935-4fc1-88c3-0036665fa095")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7032,7 +7032,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ed0c2bf7-26f9-458e-8129-f9e8119665ee")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7192,7 +7192,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/74c313fc-9e63-4c4c-bfd8-d80ff8a0585a")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7352,7 +7352,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/36769879-b947-4fb5-8264-d3f950266b69")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7669,7 +7669,7 @@
 		(property ki_fp_filters "D*SMA*")
 		(path "/dad875de-62d2-418a-ae5b-f084296acd88")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8066,7 +8066,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b0726f63-f5c6-4013-a764-85e2589a40c1")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8224,7 +8224,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/8431b3fa-06fa-4990-b652-743e47d40f42")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8558,7 +8558,7 @@
 				)
 			)
 		)
-		(property "Value" "24K"
+		(property "Value" "51K"
 			(at 0 1.829999 90)
 			(layer "F.Fab")
 			(uuid "e260b292-a927-42b3-bc11-81168fbd7918")
@@ -8606,7 +8606,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d81cee7e-89cd-42e6-9ded-2c25c80333ba")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8766,7 +8766,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/2670198a-c39f-470a-b718-ed28522d6760")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8924,7 +8924,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/2fb4f421-b502-4f25-8b64-4ee2ba55f534")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9193,7 +9193,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1a023514-a7ed-4919-a635-94cde598c3e8")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9353,7 +9353,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/1c74375d-4902-4c08-bd62-df78e5b3e2b0")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9511,7 +9511,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f897232f-bb51-4bc1-9d12-4f1646e43896")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9667,9 +9667,9 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
-		(path "/59b5f5a7-6b78-4619-a08b-778b62bf72c1")
+		(path "/eae1912e-d7c9-43c7-bcd9-fa0d71774e8c")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10121,9 +10121,9 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
-		(path "/67ea4a2f-b989-4fc8-8455-de831338dc64")
+		(path "/a32ecd57-c424-4502-9b5d-3261e8face2b")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10577,7 +10577,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/55dbc448-e585-4f26-8b42-a23152b823dd")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10735,7 +10735,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/5b55662b-7f60-4000-bd14-fe9b4b67b085")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10893,7 +10893,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e6b19c95-1296-4e37-bf5e-ef7f77952193")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11051,7 +11051,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/65b2b12b-38ee-4357-a9ee-2ac7acc215fb")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11161,7 +11161,7 @@
 				)
 			)
 		)
-		(property "Value" "20K"
+		(property "Value" "100K"
 			(at 0 1.829999 90)
 			(layer "F.Fab")
 			(uuid "2e1c2b64-8cf6-4f3d-b826-896ac909a2b2")
@@ -11209,7 +11209,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b28afd52-7835-4cf9-bc59-235750257c39")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11369,7 +11369,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/03b909fe-8cd8-4f78-8ff8-31bef9ca7d14")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11521,7 +11521,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/d440a35a-f68f-4708-a94a-0dd16f4a6b07")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11819,7 +11819,7 @@
 		(property ki_fp_filters "TSOT?23*")
 		(path "/69e50821-6529-4c46-9d47-ed27ac15e824")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12181,7 +12181,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/92c072b3-6d7d-4628-a900-76df2cedc572")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12341,7 +12341,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/3ebba7b4-5c7d-45ca-8b3f-732f40a820d7")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12788,7 +12788,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/27a0bb00-6ad3-40cf-99e8-70a2b043ec0a")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12948,7 +12948,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4a464941-3c22-4850-ad40-7319a9385140")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13106,7 +13106,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d415fe81-8b4c-4fce-9c2a-e772941b20cf")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13216,7 +13216,7 @@
 				)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "20K"
 			(at 0 1.829999 90)
 			(layer "F.Fab")
 			(uuid "dd7d7c2d-0407-4a2a-bd04-9407fafa35fb")
@@ -13264,7 +13264,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/bea85899-798d-4dd4-a5a4-2b8f5f058885")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13424,7 +13424,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b922ae8d-db5a-45c5-a718-511c42000a27")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13584,7 +13584,7 @@
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
 		(path "/72cf82f7-2461-4009-bcc5-89c1d02ca998")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14036,9 +14036,9 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
-		(path "/b01b86c6-f49b-403d-a61a-0d7edd03768a")
+		(path "/95c7da4a-fa04-4307-bba0-ba98875f5199")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14492,7 +14492,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/e1036d3d-15f4-4424-828d-88e9961ebe97")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14652,7 +14652,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/02f2cf14-cabb-4952-884e-e83f29335015")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14762,7 +14762,7 @@
 				)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "20K"
 			(at 0 1.829999 90)
 			(layer "F.Fab")
 			(uuid "28992c0d-fd1e-4c22-a6ab-661725130d17")
@@ -14810,7 +14810,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/225b04e0-3d4c-4e89-a5fd-9abaa65cd267")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15027,9 +15027,9 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
-		(path "/cdb74110-f0b6-4ad6-8750-bdb0f50dbcfd")
+		(path "/62bba74c-702b-4682-8ea9-37fcdc7d5a7b")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15435,7 +15435,7 @@
 				)
 			)
 		)
-		(property "Value" "24K"
+		(property "Value" "51K"
 			(at 0 1.829999 90)
 			(layer "F.Fab")
 			(uuid "996f4258-4027-4faf-8bb9-20dae13e3182")
@@ -15483,7 +15483,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/95ff0cd2-a221-4830-8cb9-6eab50413bac")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15643,7 +15643,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/44c9b736-489a-485e-aa1e-6636d2dde0e2")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15803,7 +15803,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4a31e4a7-cf7e-4943-b888-e3ed3aabc2ab")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16072,7 +16072,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/64dfb525-a6a4-4dcc-81fc-8f516135fe85")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16184,7 +16184,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7K"
+		(property "Value" "2.2K"
 			(at 0 1.829999 90)
 			(layer "F.Fab")
 			(uuid "9dc71126-ee30-4fa7-ae95-f445f734420e")
@@ -16232,7 +16232,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/54ff96dc-6527-4fb8-9107-4ab8425c64ef")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16392,7 +16392,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a732e88e-f6b3-43ee-b09c-edf1dfa249ba")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16550,7 +16550,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ae643164-9e2f-4871-9c52-50c2d6012c1c")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16660,7 +16660,7 @@
 				)
 			)
 		)
-		(property "Value" "51K"
+		(property "Value" "24K"
 			(at 0 1.829999 90)
 			(layer "F.Fab")
 			(uuid "d5cee2ec-470b-46ba-a34e-f5187c6992ef")
@@ -16708,7 +16708,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/536ac1df-477b-4848-a6df-c2a0e37ba629")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16868,7 +16868,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/60c70148-935d-48e3-93da-ddfe221014dd")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17026,7 +17026,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/bc3f460c-3da2-4ab6-845b-15053154bf14")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17225,7 +17225,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/e2cf49ec-ea97-4728-b24b-a5ac8bd5c144")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17585,7 +17585,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/aeb15624-21d6-4132-9149-ad3842b6ea95")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17745,7 +17745,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5dd6ccd3-a7ec-42b6-a1e9-17990f2532b0")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17903,7 +17903,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/780ff1d5-5012-4fc7-909e-4f1c2bf2a220")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18061,7 +18061,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/af116de5-e7c3-49dc-afa5-e63fc93612da")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18219,7 +18219,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/5a3ecf8d-8dad-4321-a2d0-39fdad56fa9d")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18379,7 +18379,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a414f0b7-165a-4c1d-9cbc-0c4e6d23166c")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18537,7 +18537,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/cce15e18-53ed-4168-9980-e81b7cb91377")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18697,7 +18697,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a8fd8842-8fc5-44fd-b8fc-8861c1d1c882")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18857,7 +18857,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/fb0c89b6-faef-485d-b3d9-c9e5c8b2c99c")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19304,7 +19304,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/f4a2d1e5-2de0-491c-b6ea-b731e3f6fae9")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19416,7 +19416,7 @@
 				)
 			)
 		)
-		(property "Value" "51K"
+		(property "Value" "24K"
 			(at 0 1.829999 90)
 			(layer "F.Fab")
 			(uuid "baf23f7e-c2da-423e-b047-ed095a02a1c4")
@@ -19464,7 +19464,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e1d8a6bb-7c28-491a-a7a2-2b26f043cb0e")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19624,7 +19624,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/da877615-e4df-41b4-8d11-7903a827f5d3")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19782,7 +19782,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b5e2498e-8312-4881-8929-0cd91efee9ae")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19942,7 +19942,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f961a79d-fc69-4626-b0c3-2008621aa488")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20096,7 +20096,7 @@
 		(property ki_fp_filters "OnSemi*CASE100CY*")
 		(path "/aa2f4f2d-10b3-455e-b799-b0409d74fc68")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20360,7 +20360,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/960e5ff4-8219-4a85-8737-7155c12fada4")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20517,7 +20517,7 @@
 		(property ki_fp_filters "OnSemi*CASE100CY*")
 		(path "/ffed721f-edb1-4751-a0dd-1cc546596b0e")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20772,7 +20772,7 @@
 		(property ki_fp_filters "OnSemi*CASE100CY*")
 		(path "/5455ffbf-d011-49ae-b1dc-a29201b5a908")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21036,7 +21036,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/dcbe724d-db81-423e-ba36-4a77a6b599be")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21193,7 +21193,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/44d5f063-ecac-4f77-8938-97183bd0c742")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21307,7 +21307,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/bf26014a-7c2d-4221-816f-d24b3674c56b")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21430,7 +21430,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b665dfab-c7e6-45df-b59d-5260472fcc2a")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21594,7 +21594,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/683f0d51-1343-48fc-b115-a2e4beff80d6")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21760,7 +21760,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3b435fdf-1549-4f71-a675-cb2aa5d29bd1")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21917,7 +21917,7 @@
 		(property ki_fp_filters "OnSemi*CASE100CY*")
 		(path "/de6987bc-2be7-40da-b62a-7cfc663b932b")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22181,7 +22181,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ac381e49-bfd5-4d1f-b356-16386c520a2a")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22336,7 +22336,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/1ec42e7d-b119-458f-9ecf-9b5934e81f0c")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22459,7 +22459,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ccf5df8e-a04d-435d-95b6-9c838f9b3ce4")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22616,7 +22616,7 @@
 		(property ki_fp_filters "OnSemi*CASE100CY*")
 		(path "/5b2225c9-1e44-461c-827d-2a5c8a797e7a")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22878,9 +22878,9 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm*")
-		(path "/9835e88b-b6f5-4d9b-86d4-312b82307ce5")
+		(path "/87c957cc-88fb-4a1f-9cf5-91c811db9ed3")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23331,7 +23331,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/c17c9af0-d292-4aa2-8374-282ce09da5b7")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23496,7 +23496,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/c5d2dcf5-bfc6-45bd-a5f6-5f9576419731")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23744,7 +23744,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/d280f948-1cd5-4959-af8b-e2a5e5a9a22a")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23815,7 +23815,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "4.7K"
+		(property "Value" "2.2K"
 			(at 0 -1.829999 0)
 			(layer "B.Fab")
 			(uuid "fea70511-0a92-499c-9850-d61ba08d1019")
@@ -23867,7 +23867,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4120ea23-5af9-415a-9efd-899d8aa9cf11")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24024,7 +24024,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/21ae67a9-1da5-4ecd-bf65-f704555be796")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24138,7 +24138,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/e2a26e9b-c4ca-430d-a922-7454fb5f574e")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24261,7 +24261,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/96f49c16-a69a-48e4-a94c-fb0c9ab805ba")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24418,7 +24418,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/fe59f0c6-3378-4c09-9557-c9e3658277c0")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24532,7 +24532,7 @@
 		(property ki_fp_filters "OnSemi*CASE100CY*")
 		(path "/a492e9e7-1727-49c8-937c-f1ed9c39b911")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24796,7 +24796,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/5f2c8469-953e-4e23-a951-5cd5772cdd10")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24962,7 +24962,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0a4af897-474f-4c59-936c-a0c9f44b30f4")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25119,7 +25119,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/1f7e5109-5877-418d-ac21-9bf3361b6349")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25242,7 +25242,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e7c9d370-92b4-4cd5-8fcf-a292f475efc4")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25408,7 +25408,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f3a35312-31fa-4ea7-a7cd-fafb30c6f994")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25574,7 +25574,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/38fa730d-3369-4692-885e-018b546ad6e1")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25731,7 +25731,7 @@
 		(property ki_fp_filters "OnSemi*CASE100CY*")
 		(path "/a911a686-bbd5-4f2c-a8c1-3ae976724536")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25986,7 +25986,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/699d4ee1-b780-4e2b-96f4-f54a6e7613e8")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26100,7 +26100,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/489e97e1-41a1-463b-8da9-161b4d32004e")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26214,7 +26214,7 @@
 		(property ki_fp_filters "OnSemi*CASE100CY*")
 		(path "/65a95934-3b40-43a7-9a2b-095f29c35561")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26478,7 +26478,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d92d044b-9dba-4baa-a588-c340ef550f2b")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26633,7 +26633,7 @@
 		(property ki_fp_filters "OnSemi*CASE100CY*")
 		(path "/1ee573e4-72c9-4d6d-bef9-e1a3c356e648")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26888,7 +26888,7 @@
 		(property ki_fp_filters "OnSemi*CASE100CY*")
 		(path "/4bcbc0d4-e951-4726-b9f7-5b95fc4bd38a")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27143,7 +27143,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/1e868a84-b68f-41aa-b32a-58ac98129ff7")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27264,9 +27264,9 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
-		(path "/f89c9d8d-7b38-43df-88ca-2bdf2c32e9f6")
+		(path "/8de22d4d-79da-486b-a7a6-fa95563baf6c")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27726,7 +27726,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/90f4ce2e-7f7c-4dac-8ecd-d3ba5a13c745")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27892,7 +27892,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/1fae5fd0-97a8-4683-bc9c-e1a015b00c23")
 		(sheetname "/")
-		(sheetfile "THE_LINE_FOLLOWER.kicad_sch")
+		(sheetfile "Analog_LFR.kicad_sch")
 		(units
 			(unit
 				(name "A")
