@@ -10552,7 +10552,7 @@
 			(uuid "b6c65c4b-cd93-4e5d-98ad-73aef44b16ff")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R100")
 					(unit 1)
@@ -10668,7 +10668,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e78")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U6")
 					(unit 3)
@@ -10786,7 +10786,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e76")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U1")
 					(unit 5)
@@ -10868,7 +10868,7 @@
 			(uuid "180c87af-2aba-4396-8778-3c4a2ccf0a98")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R316")
 					(unit 1)
@@ -10950,7 +10950,7 @@
 			(uuid "dcfb8684-3cab-4be8-84aa-fed25640aa75")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C503")
 					(unit 1)
@@ -11029,7 +11029,7 @@
 			(uuid "0c2cab87-08db-4e9a-bdce-89e27e5e0808")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR019")
 					(unit 1)
@@ -11109,7 +11109,7 @@
 			(uuid "23ba57fa-bb23-4927-9c0f-d45b60e12393")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "CD1")
 					(unit 1)
@@ -11188,7 +11188,7 @@
 			(uuid "e420dcda-966c-4248-a6a9-adbfb1b3dd10")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR033")
 					(unit 1)
@@ -11268,7 +11268,7 @@
 			(uuid "5e1a941e-a026-4dfa-8ee1-7effae3948a1")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R117")
 					(unit 1)
@@ -11346,7 +11346,7 @@
 			(uuid "51473dee-cc0b-4449-a129-b117590e56b6")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR078")
 					(unit 1)
@@ -11461,7 +11461,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e77")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U7")
 					(unit 4)
@@ -11577,7 +11577,7 @@
 			(uuid "7041d506-a323-46e9-8c82-82b63b4cdec0")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U2")
 					(unit 2)
@@ -11695,7 +11695,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e7a")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U7")
 					(unit 5)
@@ -11775,7 +11775,7 @@
 			(uuid "c306d3ec-9448-4ad4-b775-2f1bfa13026e")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R305")
 					(unit 1)
@@ -11891,7 +11891,7 @@
 			(uuid "6a1d29a6-428c-4ca8-b629-fbe4448a11fa")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U4")
 					(unit 2)
@@ -12009,7 +12009,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e79")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U5")
 					(unit 5)
@@ -12087,7 +12087,7 @@
 			(uuid "4e28cd66-6291-4849-b9c1-cdf139544e25")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR070")
 					(unit 1)
@@ -12169,7 +12169,7 @@
 			(uuid "eb22fc14-38f8-4fd0-b258-977152012891")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C500")
 					(unit 1)
@@ -12248,7 +12248,7 @@
 			(uuid "d1cd7900-5fef-4f3b-9c5c-3317ff856975")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "VERROR_0")
 					(unit 1)
@@ -12327,7 +12327,7 @@
 			(uuid "91256e26-1b89-4ef3-ada1-7e9f90b93735")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "P_0")
 					(unit 1)
@@ -12413,7 +12413,7 @@
 			(uuid "78cd47a2-29a4-4134-b358-7d666fae33f2")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "S9")
 					(unit 1)
@@ -12492,7 +12492,7 @@
 			(uuid "a801b460-c4ab-4abb-ab14-29d07b091fac")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "D_1")
 					(unit 1)
@@ -12574,7 +12574,7 @@
 			(uuid "46159a0d-f03a-4970-a66d-195a4549ba65")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C100")
 					(unit 1)
@@ -12654,7 +12654,7 @@
 			(uuid "2fee36a0-8d18-4810-bfb3-724d187a7e72")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R315")
 					(unit 1)
@@ -12736,7 +12736,7 @@
 			(uuid "5cebf131-dc9e-4ec5-a37d-2102d005181a")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R109")
 					(unit 1)
@@ -12815,7 +12815,7 @@
 			(uuid "34f90759-59c8-45ea-bbbe-51a0b2266ef4")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR035")
 					(unit 1)
@@ -12931,7 +12931,7 @@
 			(uuid "e8acb1ab-56ce-49cd-8ae4-9cee2ebeb75b")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U3")
 					(unit 2)
@@ -13010,7 +13010,7 @@
 			(uuid "27f3544b-f9b6-48f6-bc5e-b603a59d0481")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "VBASE_1")
 					(unit 1)
@@ -13090,7 +13090,7 @@
 			(uuid "3429b1b8-76a1-4c96-ade5-0708cf796bf4")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R407")
 					(unit 1)
@@ -13169,7 +13169,7 @@
 			(uuid "bd297301-6772-4e7c-a025-88186083e0f0")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR031")
 					(unit 1)
@@ -13249,7 +13249,7 @@
 			(uuid "bb9acb36-b4db-4807-a676-6762cb6503ed")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R409")
 					(unit 1)
@@ -13365,7 +13365,7 @@
 			(uuid "9a32eda9-26c9-48d2-bf97-9698e64e5e42")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U3")
 					(unit 4)
@@ -13443,7 +13443,7 @@
 			(uuid "fcb85b6d-0693-4de6-a5bd-7877f6e3149b")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR061")
 					(unit 1)
@@ -13525,7 +13525,7 @@
 			(uuid "1e9204db-f0aa-40bc-bce8-d02325d4c241")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C104")
 					(unit 1)
@@ -13605,7 +13605,7 @@
 			(uuid "2c8b805c-719b-461c-b6ea-d89132b049e2")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R301")
 					(unit 1)
@@ -13685,7 +13685,7 @@
 			(uuid "d3e3617b-8f66-4b02-bcf9-1eb42fbddad6")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R501")
 					(unit 1)
@@ -13801,7 +13801,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e7b")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U1")
 					(unit 2)
@@ -13879,7 +13879,7 @@
 			(uuid "68d92ac8-1bff-4e86-8b7b-1d28185e070a")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR077")
 					(unit 1)
@@ -13957,7 +13957,7 @@
 			(uuid "ca648fb6-caf3-41ef-a635-0f5fbeed523b")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR071")
 					(unit 1)
@@ -14073,7 +14073,7 @@
 			(uuid "7041d506-a323-46e9-8c82-82b63b4cdec1")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U2")
 					(unit 1)
@@ -14155,7 +14155,7 @@
 			(uuid "49f0fb42-f613-49c0-8c05-b70bcb83f83f")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C501")
 					(unit 1)
@@ -14237,7 +14237,7 @@
 			(uuid "c44b3776-50f6-4b0f-8a3f-17051087cd06")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R203")
 					(unit 1)
@@ -14315,7 +14315,7 @@
 			(uuid "6065e19b-532d-4f27-b90c-43836ae32598")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR064")
 					(unit 1)
@@ -14394,7 +14394,7 @@
 			(uuid "570e09ee-6d66-4357-a5d1-3dbf35c69ef8")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR043")
 					(unit 1)
@@ -14510,7 +14510,7 @@
 			(uuid "7041d506-a323-46e9-8c82-82b63b4cdec2")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U2")
 					(unit 4)
@@ -14589,7 +14589,7 @@
 			(uuid "604e5068-7477-4b0b-9856-24452510156e")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR029")
 					(unit 1)
@@ -14669,7 +14669,7 @@
 			(uuid "cd8cff7a-6ef5-44fd-9b6d-46cdec241077")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R312")
 					(unit 1)
@@ -14749,7 +14749,7 @@
 			(uuid "dea666fc-b78d-4edd-9e8e-b5653ebe13e5")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R115")
 					(unit 1)
@@ -14828,7 +14828,7 @@
 			(uuid "a5113160-08a2-42e6-9b7c-08b6e0430ad3")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR034")
 					(unit 1)
@@ -14944,7 +14944,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e7c")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U5")
 					(unit 3)
@@ -15024,7 +15024,7 @@
 			(uuid "86d53169-29e7-4c71-9829-1d78527a222e")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R112")
 					(unit 1)
@@ -15106,7 +15106,7 @@
 			(uuid "3aa89f11-f75b-40bd-9923-bb0495e9e687")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C1")
 					(unit 1)
@@ -15222,7 +15222,7 @@
 			(uuid "2d3faf68-30fc-4f4c-bb3b-b2945f0bd3d6")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U8")
 					(unit 2)
@@ -15301,7 +15301,7 @@
 			(uuid "bc4c49f3-3214-4231-8df4-df81bbb38c34")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR028")
 					(unit 1)
@@ -15332,7 +15332,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "4.7K"
+		(property "Value" "2.2K"
 			(at 228.6 260.3499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15383,7 +15383,7 @@
 			(uuid "754e2a06-072e-494a-b8b9-8a2faab4595a")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R212")
 					(unit 1)
@@ -15499,7 +15499,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e7d")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U4")
 					(unit 3)
@@ -15579,7 +15579,7 @@
 			(uuid "664ae1de-52dc-4c57-96a6-e14ef39103c5")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R304")
 					(unit 1)
@@ -15659,7 +15659,7 @@
 			(uuid "c3874fe4-a9aa-4364-be2d-4ea423f8b7b5")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "RP01")
 					(unit 1)
@@ -15738,7 +15738,7 @@
 			(uuid "b2de2317-0c1d-4c1e-bdec-e51d8a78e4d4")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "COM_A1")
 					(unit 1)
@@ -15826,7 +15826,7 @@
 			(uuid "d87cb8e9-068c-4bfe-9380-3b52a7dd7ec7")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "Q1")
 					(unit 1)
@@ -15941,7 +15941,7 @@
 			(uuid "e5119f09-9b5d-419b-a600-e5cdebaa1eb0")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "KD_0")
 					(unit 1)
@@ -16020,7 +16020,7 @@
 			(uuid "bcf99a6f-3db5-4089-9a5e-712dcf597fe8")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "PWM_A1")
 					(unit 1)
@@ -16099,7 +16099,7 @@
 			(uuid "f7d3efcc-389c-43e5-a24d-a3a6bb2d71af")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR030")
 					(unit 1)
@@ -16179,7 +16179,7 @@
 			(uuid "867c28cc-4663-409d-a60c-b7d6da4f2a47")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R404")
 					(unit 1)
@@ -16261,7 +16261,7 @@
 			(uuid "a92f3dd7-2902-4d6d-a9b7-9d81f836e003")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R210")
 					(unit 1)
@@ -16347,7 +16347,7 @@
 			(uuid "f44bcfd3-c1fb-4331-bf30-a04f8be76a22")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "S8")
 					(unit 1)
@@ -16426,7 +16426,7 @@
 			(uuid "286eb4ae-2293-40c7-8578-bd2d0fae42c9")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR036")
 					(unit 1)
@@ -16544,7 +16544,7 @@
 			(uuid "e8acb1ab-56ce-49cd-8ae4-9cee2ebeb75c")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U3")
 					(unit 5)
@@ -16626,7 +16626,7 @@
 			(uuid "6594f104-2c9c-4fb8-a5c4-057f97bccba4")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C504")
 					(unit 1)
@@ -16742,7 +16742,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e7e")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U7")
 					(unit 3)
@@ -16824,7 +16824,7 @@
 			(uuid "1679eeec-c1e9-4e1d-88d9-8be3f9bbbb9a")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R207")
 					(unit 1)
@@ -16904,7 +16904,7 @@
 			(uuid "c1f01278-47a7-424c-9b24-9a9de72c878b")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R403")
 					(unit 1)
@@ -16990,7 +16990,7 @@
 			(uuid "779de0f3-8a40-41cf-ae02-effee6a14d5e")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "S4")
 					(unit 1)
@@ -17021,7 +17021,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "4.7K"
+		(property "Value" "2.2K"
 			(at 227.33 219.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17072,7 +17072,7 @@
 			(uuid "a2f1352e-e493-4bd1-b0cc-5e223e4a428f")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R211")
 					(unit 1)
@@ -17154,7 +17154,7 @@
 			(uuid "9ae9fb7f-7b8d-45f6-bb82-6007841b6b15")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R202")
 					(unit 1)
@@ -17236,7 +17236,7 @@
 			(uuid "ceb9f9f5-bbb3-4dcb-9876-9e4ce1d4b190")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C301")
 					(unit 1)
@@ -17314,7 +17314,7 @@
 			(uuid "e5809b77-04c0-4ecc-870e-0d7b4d9f7747")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR076")
 					(unit 1)
@@ -17430,7 +17430,7 @@
 			(uuid "383a6f33-b22b-4317-bf7c-1bb3ef32596c")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U5")
 					(unit 2)
@@ -17546,7 +17546,7 @@
 			(uuid "74516832-de7e-42c2-a0d2-d526a598e0f3")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U6")
 					(unit 2)
@@ -17628,7 +17628,7 @@
 			(uuid "b9251e32-7ebf-48d4-8298-21c2e4ca69ab")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C502")
 					(unit 1)
@@ -17714,7 +17714,7 @@
 			(uuid "a1c368f3-d747-41cc-8b7f-7716fcfc10f0")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "S10")
 					(unit 1)
@@ -17796,7 +17796,7 @@
 			(uuid "e6946f46-7d7d-4821-baca-fe46ec76477b")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C3")
 					(unit 1)
@@ -17878,7 +17878,7 @@
 			(uuid "1e8cb60d-1648-48b9-b584-1e4b38be187f")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R102")
 					(unit 1)
@@ -17960,7 +17960,7 @@
 			(uuid "02cc1206-676d-44bb-9af4-0ce0f9b47cfc")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C200")
 					(unit 1)
@@ -18039,7 +18039,7 @@
 			(uuid "25144424-c0a3-480d-b706-9dcc00a4039f")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR027")
 					(unit 1)
@@ -18121,7 +18121,7 @@
 			(uuid "071ff9fd-3153-4ac3-8ff6-8dbe9dc2a10d")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R108")
 					(unit 1)
@@ -18239,7 +18239,7 @@
 			(uuid "7041d506-a323-46e9-8c82-82b63b4cdec3")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U2")
 					(unit 5)
@@ -18319,7 +18319,7 @@
 			(uuid "5c7c41e5-aab1-418f-898f-915e270f0413")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R401")
 					(unit 1)
@@ -18397,7 +18397,7 @@
 			(uuid "57cf4af2-86b1-4562-b858-5c24eb565996")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR02")
 					(unit 1)
@@ -18513,7 +18513,7 @@
 			(uuid "e8acb1ab-56ce-49cd-8ae4-9cee2ebeb75d")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U3")
 					(unit 1)
@@ -18594,7 +18594,7 @@
 			(uuid "5722464d-5924-4f33-859a-05dcd4e221b0")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R200")
 					(unit 1)
@@ -18680,7 +18680,7 @@
 			(uuid "5b48964b-3976-4a92-83a8-99df66aed713")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "S3")
 					(unit 1)
@@ -18760,7 +18760,7 @@
 			(uuid "c5027660-58af-444e-ae8a-f3457dc0d999")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R314")
 					(unit 1)
@@ -18876,7 +18876,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e7f")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U1")
 					(unit 3)
@@ -18992,7 +18992,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e80")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U4")
 					(unit 4)
@@ -19070,7 +19070,7 @@
 			(uuid "cdbf128d-7405-4366-9f3a-99148ce11e71")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR04")
 					(unit 1)
@@ -19152,7 +19152,7 @@
 			(uuid "39dc9fa7-1ab8-4343-85e9-8c4fd9542a86")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R205")
 					(unit 1)
@@ -19232,7 +19232,7 @@
 			(uuid "8be29bbc-374a-410c-9926-abc01469aa7d")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R309")
 					(unit 1)
@@ -19348,7 +19348,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e81")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U4")
 					(unit 1)
@@ -19428,7 +19428,7 @@
 			(uuid "c8f9cbe6-95b5-4f1b-b160-ef2a2d1662a6")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R114")
 					(unit 1)
@@ -19506,7 +19506,7 @@
 			(uuid "d4577a1a-9f1d-4b0c-923b-8d55b18dfd18")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "PID_0")
 					(unit 1)
@@ -19598,7 +19598,7 @@
 			(uuid "46978554-80c7-4898-bb87-e0dbbc379388")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U9")
 					(unit 1)
@@ -19676,7 +19676,7 @@
 			(uuid "2d517ee7-0d20-4573-bc90-1e4085c95842")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR068")
 					(unit 1)
@@ -19792,7 +19792,7 @@
 			(uuid "2d3faf68-30fc-4f4c-bb3b-b2945f0bd3d7")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U8")
 					(unit 3)
@@ -19870,7 +19870,7 @@
 			(uuid "21f869d5-a3b5-4c24-927d-b0eb3920e183")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR058")
 					(unit 1)
@@ -19948,7 +19948,7 @@
 			(uuid "6cb4602e-1554-45e0-a251-46aa1b8155e9")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR056")
 					(unit 1)
@@ -20026,7 +20026,7 @@
 			(uuid "ad9880c5-00ff-48c7-a788-905fc22672a9")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR073")
 					(unit 1)
@@ -20142,7 +20142,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e82")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U1")
 					(unit 1)
@@ -20223,7 +20223,7 @@
 			(uuid "abfc5899-c21c-4cf3-ab8f-2aef3832eb6e")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C4")
 					(unit 1)
@@ -20301,7 +20301,7 @@
 			(uuid "7d5f6add-785d-49a3-852b-ca103e30e1d0")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR03")
 					(unit 1)
@@ -20380,7 +20380,7 @@
 			(uuid "1131038d-5fd2-43a5-9373-fa39f710433a")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR020")
 					(unit 1)
@@ -20462,7 +20462,7 @@
 			(uuid "6d0ab6b1-1ff0-42c7-92ca-ab782b0b99b8")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R105")
 					(unit 1)
@@ -20541,7 +20541,7 @@
 			(uuid "5975b214-1f98-405b-ab95-9bd66dfc4e07")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR042")
 					(unit 1)
@@ -20619,7 +20619,7 @@
 			(uuid "969e3397-df0f-4c41-a6f1-1f3dd0042539")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR054")
 					(unit 1)
@@ -20697,7 +20697,7 @@
 			(uuid "048a059d-ba6c-4292-b044-19e46fa18f49")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR062")
 					(unit 1)
@@ -20775,7 +20775,7 @@
 			(uuid "5f6d3b15-6d94-4e5d-b9b0-32807db0cfa2")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR080")
 					(unit 1)
@@ -20863,7 +20863,7 @@
 			(uuid "2a7d100a-66aa-4652-9561-33bcbda41f82")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "Q2")
 					(unit 1)
@@ -20979,7 +20979,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e83")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U6")
 					(unit 1)
@@ -21061,7 +21061,7 @@
 			(uuid "4e17f7f8-5260-47b7-8fd5-9286b0624a02")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R103")
 					(unit 1)
@@ -21177,7 +21177,7 @@
 			(uuid "ed31b48f-e07e-4485-b9f0-ecb40e9ef49d")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "KP_0")
 					(unit 1)
@@ -21255,7 +21255,7 @@
 			(uuid "768b6ae6-ffdc-4799-998b-a8ff7a65b2b2")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR065")
 					(unit 1)
@@ -21373,7 +21373,7 @@
 			(uuid "2d3faf68-30fc-4f4c-bb3b-b2945f0bd3d8")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U8")
 					(unit 5)
@@ -21491,7 +21491,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e84")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U6")
 					(unit 5)
@@ -21570,7 +21570,7 @@
 			(uuid "1dcc8347-c929-40a3-9aa1-e915a53ef3d7")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR039")
 					(unit 1)
@@ -21686,7 +21686,7 @@
 			(uuid "a9d26107-22f0-49dd-9913-1459a4226c6c")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U7")
 					(unit 2)
@@ -21765,7 +21765,7 @@
 			(uuid "bb62a55d-949d-466e-aa08-f92eb46a6f54")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR024")
 					(unit 1)
@@ -21843,7 +21843,7 @@
 			(uuid "34a21cdb-3f61-4d69-9671-765519e2006f")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR057")
 					(unit 1)
@@ -21923,7 +21923,7 @@
 			(uuid "006e7691-66c1-4c7f-90fa-8fb6b4806ba8")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R307")
 					(unit 1)
@@ -22005,7 +22005,7 @@
 			(uuid "7cd37b12-4e3c-4c13-932b-e44558be6f33")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "D1")
 					(unit 1)
@@ -22085,7 +22085,7 @@
 			(uuid "b9a1d705-f173-4486-beee-491d24b76ea5")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R502")
 					(unit 1)
@@ -22163,7 +22163,7 @@
 			(uuid "a9d43f9c-411f-4ec2-8e37-45e4b071bcd5")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR069")
 					(unit 1)
@@ -22279,7 +22279,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e85")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U5")
 					(unit 1)
@@ -22359,7 +22359,7 @@
 			(uuid "be7dc51d-d1bd-4d8c-b3a1-7458ded47463")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R405")
 					(unit 1)
@@ -22439,7 +22439,7 @@
 			(uuid "2175377c-314f-40d2-8ec7-f8fed4b0a66d")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R111")
 					(unit 1)
@@ -22517,7 +22517,7 @@
 			(uuid "ae624d7c-d596-4dee-9cc5-a71817b72df2")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR066")
 					(unit 1)
@@ -22597,7 +22597,7 @@
 			(uuid "56791598-f2ef-42f3-a633-4e16981e3fd2")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R118")
 					(unit 1)
@@ -22715,7 +22715,7 @@
 			(uuid "65a679ea-c035-46f1-ae9a-5e490e35ac41")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "BASE_0")
 					(unit 1)
@@ -22795,7 +22795,7 @@
 			(uuid "52d7e674-7156-4909-ad88-a45e0a670765")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "RI2")
 					(unit 1)
@@ -22911,7 +22911,7 @@
 			(uuid "2d3faf68-30fc-4f4c-bb3b-b2945f0bd3d9")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U8")
 					(unit 1)
@@ -22989,7 +22989,7 @@
 			(uuid "b3cbd106-6364-4953-9a1e-727b65d412fc")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR074")
 					(unit 1)
@@ -23069,7 +23069,7 @@
 			(uuid "9681177e-4a4d-4d6e-b314-1396233f6447")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R303")
 					(unit 1)
@@ -23187,7 +23187,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e86")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U4")
 					(unit 5)
@@ -23266,7 +23266,7 @@
 			(uuid "e7947314-9f72-4384-8383-09e3e0c0f0a5")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR023")
 					(unit 1)
@@ -23344,7 +23344,7 @@
 			(uuid "991d524b-fdf9-4175-9c81-b5d58b729828")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR081")
 					(unit 1)
@@ -23424,7 +23424,7 @@
 			(uuid "ee69df30-12fa-4964-b17e-08dd79b56db4")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "CB2")
 					(unit 1)
@@ -23510,7 +23510,7 @@
 			(uuid "17eef8ce-7a96-49a1-8fe0-108ca1dc47e9")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "S7")
 					(unit 1)
@@ -23589,7 +23589,7 @@
 			(uuid "3b2cce57-1196-4b45-bb65-a1df9938e62a")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR037")
 					(unit 1)
@@ -23671,7 +23671,7 @@
 			(uuid "9f246187-d832-4f27-9358-47a0b4a7b983")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R208")
 					(unit 1)
@@ -23751,7 +23751,7 @@
 			(uuid "ff44a564-841b-4893-9197-5d24f2ce8521")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R302(DNP)1")
 					(unit 1)
@@ -23833,7 +23833,7 @@
 			(uuid "53202c71-560f-40b5-b416-d6d591507d88")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C101")
 					(unit 1)
@@ -23919,7 +23919,7 @@
 			(uuid "2b04eb1c-54c0-4751-aed6-aee5a16b4d6e")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "S2")
 					(unit 1)
@@ -24005,7 +24005,7 @@
 			(uuid "16b49767-7c94-462a-a731-48865eb622b3")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "S5")
 					(unit 1)
@@ -24085,7 +24085,7 @@
 			(uuid "dc08551a-266c-4542-ac1c-dcd0e8fcbd48")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R116")
 					(unit 1)
@@ -24167,7 +24167,7 @@
 			(uuid "c47aa11d-d963-47b8-b044-873c5161b209")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R104")
 					(unit 1)
@@ -24249,7 +24249,7 @@
 			(uuid "f406cf31-b606-4ae0-80af-fe435d9a1709")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C103")
 					(unit 1)
@@ -24329,7 +24329,7 @@
 			(uuid "9c929d5c-0ea2-47a9-8d0c-ba21918507bc")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R310")
 					(unit 1)
@@ -24445,7 +24445,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e87")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U5")
 					(unit 4)
@@ -24527,7 +24527,7 @@
 			(uuid "b9363819-534b-485e-a029-e22d711c2f4b")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R110")
 					(unit 1)
@@ -24605,7 +24605,7 @@
 			(uuid "425733ab-fb1d-4c74-9627-91fe4947afff")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR01")
 					(unit 1)
@@ -24685,7 +24685,7 @@
 			(uuid "19769f3e-0647-4f79-b274-0764f2a78ecd")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R406")
 					(unit 1)
@@ -24767,7 +24767,7 @@
 			(uuid "48d28384-04b2-41df-bcb5-bc30a80ace4f")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R209")
 					(unit 1)
@@ -24846,7 +24846,7 @@
 			(uuid "2d272e8d-32f5-4f7a-8f08-c055303f43b6")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR025")
 					(unit 1)
@@ -24926,7 +24926,7 @@
 			(uuid "330dc8ab-05fc-4ba6-95d8-7b220fbb11a3")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R411")
 					(unit 1)
@@ -25008,7 +25008,7 @@
 			(uuid "ae8dab69-3788-4ff4-9824-0d20f061e0db")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C105")
 					(unit 1)
@@ -25087,7 +25087,7 @@
 			(uuid "84a3f27f-676c-41ef-a59f-bfb8b7e42a9f")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "CD3")
 					(unit 1)
@@ -25165,7 +25165,7 @@
 			(uuid "48856688-984f-4d1a-bc2f-14511fcabbaf")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR059")
 					(unit 1)
@@ -25244,7 +25244,7 @@
 			(uuid "ec2b39d7-e37a-4159-b767-b4c994c6aef4")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR041")
 					(unit 1)
@@ -25324,7 +25324,7 @@
 			(uuid "b503b879-2279-4cf5-a478-af8a7b399646")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "RD1")
 					(unit 1)
@@ -25440,7 +25440,7 @@
 			(uuid "2d3faf68-30fc-4f4c-bb3b-b2945f0bd3da")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U8")
 					(unit 4)
@@ -25520,7 +25520,7 @@
 			(uuid "cf2cc890-298e-41f8-a315-e2fdfd291d56")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R308")
 					(unit 1)
@@ -25600,7 +25600,7 @@
 			(uuid "3a1cfd35-1444-41bb-9361-759a745befde")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R402")
 					(unit 1)
@@ -25679,7 +25679,7 @@
 			(uuid "045f500c-0482-46df-bf20-57350454c0ad")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "TRI1")
 					(unit 1)
@@ -25757,7 +25757,7 @@
 			(uuid "a233b353-0eac-40c8-9237-de41a34b87eb")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR067")
 					(unit 1)
@@ -25836,7 +25836,7 @@
 			(uuid "6668d40f-affc-4688-bee9-d36ff74b8dd6")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR022")
 					(unit 1)
@@ -25915,7 +25915,7 @@
 			(uuid "45abcc47-1a46-4c8d-b6b4-8fea868d43d9")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "VREF_0")
 					(unit 1)
@@ -26031,7 +26031,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e88")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U1")
 					(unit 4)
@@ -26110,7 +26110,7 @@
 			(uuid "bf3d4aa4-a38c-476c-93de-93fa6c39544f")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR026")
 					(unit 1)
@@ -26189,7 +26189,7 @@
 			(uuid "f0caee4a-96b4-4d5d-a253-63364283e53f")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR021")
 					(unit 1)
@@ -26305,7 +26305,7 @@
 			(uuid "50293bc0-ad37-4ca1-8917-3192bdb044b7")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "GAIN_0")
 					(unit 1)
@@ -26421,7 +26421,7 @@
 			(uuid "7041d506-a323-46e9-8c82-82b63b4cdec4")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U2")
 					(unit 3)
@@ -26503,7 +26503,7 @@
 			(uuid "a85dd581-1a1d-4733-8318-e9ca8d74b9dd")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R206")
 					(unit 1)
@@ -26584,7 +26584,7 @@
 			(uuid "5a4de06f-c5b9-4396-ba9c-50053139df4b")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R317")
 					(unit 1)
@@ -26664,7 +26664,7 @@
 			(uuid "735b8ab5-8f0f-435e-bd5f-22550e5be1d4")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R119")
 					(unit 1)
@@ -26742,7 +26742,7 @@
 			(uuid "d6f524cf-fb68-4a3f-b05c-e1934eb10d4d")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR055")
 					(unit 1)
@@ -26858,7 +26858,7 @@
 			(uuid "e8acb1ab-56ce-49cd-8ae4-9cee2ebeb75e")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U3")
 					(unit 3)
@@ -26976,7 +26976,7 @@
 			(uuid "3f6fad17-2cee-4b00-8a98-15718a1ce583")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "OFF_0")
 					(unit 1)
@@ -27055,7 +27055,7 @@
 			(uuid "b1ef48f0-9679-4bd7-8f47-fed35d9c88db")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR038")
 					(unit 1)
@@ -27135,7 +27135,7 @@
 			(uuid "b8f17172-b1d8-4cb7-8871-301a088ce294")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "CI1")
 					(unit 1)
@@ -27214,7 +27214,7 @@
 			(uuid "5d33c6d3-4baf-4e95-bf2b-0b08334bd307")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "I_1")
 					(unit 1)
@@ -27296,7 +27296,7 @@
 			(uuid "41f0b492-a42d-4792-965d-772c89620675")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R101")
 					(unit 1)
@@ -27375,7 +27375,7 @@
 			(uuid "e3eaaeeb-91de-4505-b435-5f7afdc8462b")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "L1")
 					(unit 1)
@@ -27453,7 +27453,7 @@
 			(uuid "9dc33edc-61b4-4671-9cba-8a1571828ede")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR079")
 					(unit 1)
@@ -27533,7 +27533,7 @@
 			(uuid "2ad4e6fb-4b34-496c-b77b-5a73235db70b")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R410")
 					(unit 1)
@@ -27613,7 +27613,7 @@
 			(uuid "45260d0b-0409-45bf-8171-4951a1e461c6")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R313")
 					(unit 1)
@@ -27695,7 +27695,7 @@
 			(uuid "b542c314-5732-4568-b178-b63b4e93bf9a")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R107")
 					(unit 1)
@@ -27777,7 +27777,7 @@
 			(uuid "5ff43735-e79d-45cb-8c40-b9f3bdb552ec")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "D2")
 					(unit 1)
@@ -27857,7 +27857,7 @@
 			(uuid "65f4c41f-81e7-4205-87e9-f49c608d0fbb")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R120")
 					(unit 1)
@@ -27935,7 +27935,7 @@
 			(uuid "19b0eb3e-5075-409e-af92-70c36430d0d8")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR063")
 					(unit 1)
@@ -28021,7 +28021,7 @@
 			(uuid "938cb38e-482e-4174-97f7-264e1ce7de02")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "S1")
 					(unit 1)
@@ -28103,7 +28103,7 @@
 			(uuid "72812f9f-a0e5-4b89-bf1a-6bbce9830457")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C106")
 					(unit 1)
@@ -28183,7 +28183,7 @@
 			(uuid "ff567b73-ded0-4c26-b7bf-58eb0bb2c2cb")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R408")
 					(unit 1)
@@ -28263,7 +28263,7 @@
 			(uuid "7ebf27af-9bdb-4c03-9c35-238cc0540c24")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "RI1")
 					(unit 1)
@@ -28342,7 +28342,7 @@
 			(uuid "013f7030-7c12-4b8d-93f6-7918e57f31a1")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "COM_B1")
 					(unit 1)
@@ -28458,7 +28458,7 @@
 			(uuid "aa95651c-7288-4035-b621-41f166366402")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "KI_0")
 					(unit 1)
@@ -28538,7 +28538,7 @@
 			(uuid "65a49c33-ca07-4162-af81-1eecf712665a")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R1000")
 					(unit 1)
@@ -28616,7 +28616,7 @@
 			(uuid "8e2d803f-5c7b-469e-a82f-a543d84010a5")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR072")
 					(unit 1)
@@ -28696,7 +28696,7 @@
 			(uuid "76e32be3-d717-4b04-9440-a9a007766ec1")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R113")
 					(unit 1)
@@ -28812,7 +28812,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e89")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U6")
 					(unit 4)
@@ -28894,7 +28894,7 @@
 			(uuid "e251e42b-fd7a-4f87-be29-bb8120095ff7")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R201")
 					(unit 1)
@@ -28973,7 +28973,7 @@
 			(uuid "6ee26a94-6d0a-45bb-b787-4b611aa4ffa0")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR040")
 					(unit 1)
@@ -29051,7 +29051,7 @@
 			(uuid "24e1e234-5559-4af1-915d-87b5cc3f2fb6")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR075")
 					(unit 1)
@@ -29129,7 +29129,7 @@
 			(uuid "f167da69-dde4-48f3-a249-aa6c322e8f14")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR060")
 					(unit 1)
@@ -29211,7 +29211,7 @@
 			(uuid "6c40eb34-e7ac-40a3-89f7-157d1b4d7b50")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C102")
 					(unit 1)
@@ -29291,7 +29291,7 @@
 			(uuid "d8d8d010-56a6-4a09-bc2b-7362575a87ba")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R306")
 					(unit 1)
@@ -29372,7 +29372,7 @@
 			(uuid "2dc04df0-7cf0-401b-82f8-b540449c13db")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C5")
 					(unit 1)
@@ -29454,7 +29454,7 @@
 			(uuid "5b096e88-eb68-4866-b614-f70d13f093db")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R106")
 					(unit 1)
@@ -29570,7 +29570,7 @@
 			(uuid "cc0db81a-9da5-4e89-8f50-6292836f6e8a")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "U7")
 					(unit 1)
@@ -29650,7 +29650,7 @@
 			(uuid "09c6f1f2-3286-4880-be95-dfb21f53f15a")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R311")
 					(unit 1)
@@ -29729,7 +29729,7 @@
 			(uuid "f59c2642-8f8a-48eb-a904-161e75bd9b7a")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "#PWR032")
 					(unit 1)
@@ -29811,7 +29811,7 @@
 			(uuid "5abef59d-4d81-4dea-a5e5-d7c2728abbe1")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "C2")
 					(unit 1)
@@ -29893,7 +29893,7 @@
 			(uuid "2139ee32-3bb1-4204-989f-9a556ef259cd")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "R204")
 					(unit 1)
@@ -29972,7 +29972,7 @@
 			(uuid "6aa98ec2-db13-4b32-a698-6549544c3fcb")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "PWM_B1")
 					(unit 1)
@@ -30058,7 +30058,7 @@
 			(uuid "e5a41c25-fe6c-4fc0-babf-f5d0d184e6d6")
 		)
 		(instances
-			(project "THE_LINE_FOLLOWER_formatted"
+			(project "Analog_LFR"
 				(path "/ae1b3842-c5d4-450a-82ba-53238ffc8e77"
 					(reference "S6")
 					(unit 1)
